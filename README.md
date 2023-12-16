@@ -1,4 +1,7 @@
 ### Hi there 👋
+- I write python 🐍
+- I know Unity/C#
+- I make [music](hawz.es/spotify)
 
 <!--
 **TheHawz/TheHawz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
